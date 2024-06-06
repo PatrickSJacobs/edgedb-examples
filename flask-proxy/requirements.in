@@ -1,5 +1,0 @@
-flask
-authlib
-requests
-pyjwt
-edgedb==0.24.0a5

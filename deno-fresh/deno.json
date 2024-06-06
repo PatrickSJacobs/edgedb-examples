@@ -1,8 +1,0 @@
-{
-  "tasks": {
-    "start": "deno run -A --unstable --watch=static/,routes/ dev.ts",
-    "test": "deno run -A --unstable test.ts",
-    "generate": "deno run --reload -A --unstable https://deno.land/x/edgedb/generate.ts"
-  },
-  "importMap": "./import_map.json"
-}
